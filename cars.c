@@ -1,9 +1,3 @@
-/*
-Zadanie 2
-
-Jeżeli coś jest na wewnętrznej części toru kolizyjnego, to pojazdy z toru okrężnego nie mogą wjechać na prawą część toru, a te które już są na tej części nie mogą się poruszać.
-*/
-
 #include <ncurses.h>
 #include <stdio.h>
 #include <thread>
